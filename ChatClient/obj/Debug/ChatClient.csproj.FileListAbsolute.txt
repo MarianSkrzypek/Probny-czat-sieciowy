@@ -1,0 +1,11 @@
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\ChatClient\bin\Debug\ChatClient.exe.config
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\ChatClient\bin\Debug\ChatClient.exe
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\ChatClient\bin\Debug\ChatClient.pdb
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\ChatClient\bin\Debug\Czatsieciowy.dll
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\ChatClient\bin\Debug\Czatsieciowy.pdb
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\ChatClient\obj\Debug\Czatsieciowy.Form1.resources
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\ChatClient\obj\Debug\ChatClient.exe
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\ChatClient\obj\Debug\ChatClient.pdb

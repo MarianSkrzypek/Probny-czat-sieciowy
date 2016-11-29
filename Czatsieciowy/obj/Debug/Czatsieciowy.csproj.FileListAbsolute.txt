@@ -1,0 +1,4 @@
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\Czatsieciowy\bin\Debug\Czatsieciowy.dll
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\Czatsieciowy\bin\Debug\Czatsieciowy.pdb
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\Czatsieciowy\obj\Debug\Czatsieciowy.dll
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\Czatsieciowy\obj\Debug\Czatsieciowy.pdb

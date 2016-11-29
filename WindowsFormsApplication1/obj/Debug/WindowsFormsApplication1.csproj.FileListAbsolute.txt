@@ -1,0 +1,11 @@
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\WindowsFormsApplication1\bin\Debug\Czatsieciowy.dll
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\WindowsFormsApplication1\bin\Debug\Czatsieciowy.pdb
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\WindowsFormsApplication1\obj\Debug\Czatsieciowy.Form1.resources
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\marianskrzypek\documents\visual studio 2015\Projects\Czatsieciowy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
